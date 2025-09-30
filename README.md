@@ -24,7 +24,7 @@ This project is an **IPL Dashboard** created in **Power BI** to analyze Indian P
 - Power Query (Data Cleaning)
 
 ## 🔗 Project Link
-👉 [View on GitHub](Your_GitHub_Repository_Link)
+👉 [https://app.powerbi.com/reportEmbed?reportId=e56910bf-9630-4c6c-ad4c-1adc94566bd5&autoAuth=true&ctid=c558c1f4-c119-44de-9f72-a46139434536]
 
 
 
