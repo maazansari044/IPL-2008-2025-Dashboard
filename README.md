@@ -1,4 +1,4 @@
-# 📊 IPL Dashboard (2008-2025)
+# IPL Dashboard (2008-2025)
 
 This project is an **IPL Dashboard** created in **Power BI** to analyze Indian Premier League (IPL) data from 2008 to 2025.  
 
