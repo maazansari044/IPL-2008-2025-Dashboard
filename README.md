@@ -1,34 +1,32 @@
-📊 IPL Dashboard (2008-2025)
+# 📊 IPL Dashboard (2008-2025)
 
-This project is an IPL Dashboard created using Power BI to analyze Indian Premier League (IPL) data from 2008 to 2025.
-It provides rich visual insights into batting, bowling, team, and season-wise performances.
+This project is an **IPL Dashboard** created in **Power BI** to analyze Indian Premier League (IPL) data from 2008 to 2025.  
 
-Features
-Player Wise Stats – Individual player runs, wickets, 4s, and 6s.
-Year Wise Stats – Season-wise winners, top scorers, highest & lowest team scores.
-Batting Insights – Total runs, dismissals, Orange Cap holders, boundaries, strike distribution.
-Bowling Insights – Total wickets, Purple Cap holders, dismissal types.
-Team Performance – Title winners, match results, highest & lowest scores.
-Interactive Filters – Year, player, and team-based analysis.
+## Features
+- Player wise runs & wickets (Orange Cap & Purple Cap)  
+- Year wise winners, match results, highest/lowest scores  
+- Batting insights: boundaries, dismissals, top scorers  
+- Bowling insights: wickets, dismissal types  
+- Team performance & title winners  
+- Interactive filters for **Year, Player, Team**
 
-Key Highlights
-Total Matches Analyzed: 1169
-Total 4’s: 32,113+
-Total 6’s: 14,353+
+## Key Highlights
+- Matches Analyzed: **1169**  
+- 4’s: **32,113+** 
+- 6’s: **14,353+**  
+- Highest Individual Score: **Chris Gayle (175, 2013)**  
+- Highest Team Score: **Sunrisers Hyderabad (287, 2024)**  
+- Lowest Team Score: **RCB (49, 2017)**  
 
-Highest Individual Score: Chris Gayle (175 in 2013)
+## Tools & Technologies
+- Power BI (Visualization)  
+- Excel/CSV Dataset (Source)  
+- Power Query (Data Cleaning)
 
-Highest Team Score: Sunrisers Hyderabad (287 in 2024)
+## 🔗 Project Link
+👉 [View on GitHub](Your_GitHub_Repository_Link)
 
-Lowest Team Score: RCB (49 in 2017)
 
-🛠️ Tools & Technologies
-Power BI – Data Visualization
-Excel / CSV Dataset – Data Source
-Data Cleaning – Power Query
 
-📷 Dashboard Preview
-(Include screenshots here)
 
-👨‍💻 Developed By
-Aboomaz Ansari
+
